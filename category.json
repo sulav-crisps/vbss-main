@@ -1,44 +1,43 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "category_name": "Coronavirus",
-            "category_desc": "This news category contains all the COVID-19 related news.",
-            "image_url": "https://static-assets-cdn.crisps.tech/1640617833-corona-vaccine.png",
-            "parent_id": -1,
-            "status": 1
-        },
-       {
-            "id": 2,
-            "category_name": "Nepal",
-            "category_desc": "This news category contains all the nation related news.",
-            "image_url": "https://static-assets-cdn.crisps.tech/1640618054-nepal%20(1).png",
-            "parent_id": -1,
-            "status": 1
-        },
-       {
-            "id": 3,
-            "category_name": "International",
-            "category_desc": "This news category contains all the international news.",
-            "image_url": "https://static-assets-cdn.crisps.tech/1640618284-international.png",
-            "parent_id": -1,
-            "status": 1
-        },
-       {
-            "id": 4,
-            "category_name": "Business",
-            "category_desc": "This news category contains all the business, startups and finance related news.",
-            "image_url": "https://static-assets-cdn.crisps.tech/1640618486-business.png",
-            "parent_id": -1,
-            "status": 1
-        },
-       {
-            "id": 5,
-            "category_name": "Politics",
-            "category_desc": "This news category contains all the pnational politics news.",
-            "image_url": "https://static-assets-cdn.crisps.tech/1640618906-politics%20(1).png",
-            "parent_id": -1,
-            "status": 1
-        },
-    ]
+	"data": [{
+			"id": 1,
+			"category_name": "Coronavirus",
+			"category_desc": "This news category contains all the COVID-19 related news.",
+			"image_url": "https://static-assets-cdn.crisps.tech/1640617833-corona-vaccine.png",
+			"parent_id": -1,
+			"status": 1
+		},
+		{
+			"id": 2,
+			"category_name": "Nepal",
+			"category_desc": "This news category contains all the nation related news.",
+			"image_url": "https://static-assets-cdn.crisps.tech/1640618054-nepal%20(1).png",
+			"parent_id": -1,
+			"status": 1
+		},
+		{
+			"id": 3,
+			"category_name": "International",
+			"category_desc": "This news category contains all the international news.",
+			"image_url": "https://static-assets-cdn.crisps.tech/1640618284-international.png",
+			"parent_id": -1,
+			"status": 1
+		},
+		{
+			"id": 4,
+			"category_name": "Business",
+			"category_desc": "This news category contains all the business, startups and finance related news.",
+			"image_url": "https://static-assets-cdn.crisps.tech/1640618486-business.png",
+			"parent_id": -1,
+			"status": 1
+		},
+		{
+			"id": 5,
+			"category_name": "Politics",
+			"category_desc": "This news category contains all the pnational politics news.",
+			"image_url": "https://static-assets-cdn.crisps.tech/1640618906-politics%20(1).png",
+			"parent_id": -1,
+			"status": 1
+		}
+	]
 }
